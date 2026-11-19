@@ -1,4 +1,7 @@
-<!-- ================= BRAND HEADER ================= -->
+
+<!-- ================================================== -->
+<!--                 LUMOS LOGIC HEADER                  -->
+<!-- ================================================== -->
 
 <div align="center">
 
@@ -6,17 +9,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A7F515&center=true&vCenter=true&width=700&lines=Building+Enterprise+SaaS+Solutions;Developing+AI-Powered+Applications;Transforming+Business+Workflows;Innovating+Across+HRTech+%26+RecruitmentTech" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Software_Engineering-1E164A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_&_Automation-A7F515?style=for-the-badge&logoColor=1E164A" />
-<img src="https://img.shields.io/badge/Enterprise_SaaS-1E164A?style=for-the-badge" />
-
 <br/><br/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-1E164A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_&_Automation-A7F515?style=for-the-badge&logoColor=1E164A" />
+<img src="https://img.shields.io/badge/Enterprise_SaaS-1E164A?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
+
+<!-- ================================================== -->
+<!--                     ABOUT US                        -->
+<!-- ================================================== -->
 
 ## 🏢 About Lumos Logic
 
@@ -36,6 +41,10 @@ Our goal is to transform complex business requirements into scalable, reliable, 
 - ☁️ Cloud Infrastructure & Application Deployment
 
 ---
+
+<!-- ================================================== -->
+<!--                  PRODUCT ECOSYSTEM                  -->
+<!-- ================================================== -->
 
 ## 🚀 Our Product Ecosystem
 
@@ -70,6 +79,7 @@ An AI-powered recruitment ecosystem designed to automate candidate screening, in
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -100,43 +110,57 @@ Features include brand customization, e-signatures, document locking, and AI-ass
 
 ---
 
+<!-- ================================================== -->
+<!--                   TECHNOLOGY STACK                 -->
+<!-- ================================================== -->
+
 ## ⚡ Technology Stack
 
-### Frontend Engineering
+### 🎨 Frontend Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" />
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap&theme=dark" />
+</div>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,mysql" />
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,mysql&theme=dark" />
+</div>
 
-### Mobile & Application Development
+### 📱 Mobile & Application Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,firebase,git,github,postman,docker" />
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=firebase,git,github,postman,docker&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-1E164A?style=for-the-badge&logo=react&logoColor=A7F515" />
+<img src="https://img.shields.io/badge/Expo-1E164A?style=for-the-badge&logo=expo&logoColor=A7F515" />
+</div>
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,docker,linux,nginx" />
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,docker,linux,nginx&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Hostinger_VPS-1E164A?style=for-the-badge&logo=hostinger&logoColor=A7F515" />
+<img src="https://img.shields.io/badge/Render-1E164A?style=for-the-badge&logo=render&logoColor=A7F515" />
+</div>
 
-### AI & Integrations
+### 🤖 AI & Integrations
 
-<p>
+<div align="left">
 <img src="https://img.shields.io/badge/OpenAI-1E164A?style=for-the-badge&logo=openai&logoColor=A7F515" />
 <img src="https://img.shields.io/badge/Deepgram-1E164A?style=for-the-badge&logoColor=A7F515" />
 <img src="https://img.shields.io/badge/ElevenLabs-1E164A?style=for-the-badge&logoColor=A7F515" />
 <img src="https://img.shields.io/badge/Recall_AI-1E164A?style=for-the-badge&logoColor=A7F515" />
 <img src="https://img.shields.io/badge/Convex-1E164A?style=for-the-badge&logoColor=A7F515" />
-</p>
+</div>
 
 ---
+
+<!-- ================================================== -->
+<!--                 DEVELOPMENT PROCESS                -->
+<!-- ================================================== -->
 
 ## ☁️ Development & Deployment
 
@@ -155,24 +179,34 @@ Our development workflows cover:
 
 ---
 
+<!-- ================================================== -->
+<!--                  GITHUB ACTIVITY                    -->
+<!-- ================================================== -->
 
 ## 📊 GitHub Engineering Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LumosLogic-Dhruv&show_icons=true&theme=dark&bg_color=1E164A&title_color=A7F515&icon_color=A7F515&text_color=FFFFFF&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumosLogic-Dhruv&layout=compact&theme=dark&bg_color=1E164A&title_color=A7F515&text_color=FFFFFF&hide_border=true" />
+<a href="https://github.com/LumosLogic-Dhruv">
+<img src="https://img.shields.io/badge/View_GitHub_Profile-1E164A?style=for-the-badge&logo=github&logoColor=A7F515" />
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/LumosLogic-Dhruv">
-  <img src="https://img.shields.io/badge/View_GitHub_Activity-1E164A?style=for-the-badge&logo=github&logoColor=A7F515" />
-</a>
+<img src="https://img.shields.io/badge/Private_Contributions-Included_in_GitHub_Activity-A7F515?style=for-the-badge&labelColor=1E164A" />
+
+<p>
+Public repository statistics are available through the GitHub profile.
+Private contribution activity is represented through GitHub's anonymized contribution graph.
+</p>
 
 </div>
 
 ---
+
+<!-- ================================================== -->
+<!--                  CONTRIBUTION SNAKE                 -->
+<!-- ================================================== -->
 
 ## 🐍 Contribution Activity
 
@@ -181,37 +215,12 @@ Our development workflows cover:
 <img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LumosLogic-Dhruv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
-
-</div>
 
 ---
 
-## 📌 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=LumosLogic-Dhruv&limit=5&theme=dark&combine_all_yearly_contributions=true" width="85%" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
----
+<!-- ================================================== -->
+<!--                       CONNECT                       -->
+<!-- ================================================== -->
 
 ## 🤝 Connect With Lumos Logic
 
@@ -221,13 +230,11 @@ Our development workflows cover:
 <img src="https://img.shields.io/badge/GitHub-1E164A?style=for-the-badge&logo=github&logoColor=A7F515" />
 </a>
 
-<a href="https://www.linkedin.com/company/lumos-logic/">
-<img src="https://img.shields.io/badge/LinkedIn-1E164A?style=for-the-badge&logo=linkedin&logoColor=A7F515" />
-</a>
-
 <br/><br/>
 
 **Building technology that makes businesses smarter.**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E164A,50:35277A,100:A7F515&height=110&section=footer" width="100%" />
 
