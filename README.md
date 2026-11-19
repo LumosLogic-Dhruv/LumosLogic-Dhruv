@@ -1,24 +1,202 @@
-# 💫 About Me:
-I am Dhruv Shere, a passionate Software Developer at Lumos Logic India LLP and a Full-Stack Developer who loves building scalable, user-centric web applications.<br><br>I specialize in modern web development and have hands-on experience working across multiple technologies to create efficient, real-world solutions. With a strong foundation in software engineering principles and problem-solving, I enjoy transforming ideas into impactful digital products.<br><br>I am always eager to learn, explore new technologies, and continuously improve my development skills. I believe in writing clean, maintainable code and collaborating effectively within teams to deliver high-quality software.
+<!-- ================= BRAND HEADER ================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheredhruv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-shere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvshere.lumoslogic@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E164A,50:35277A,100:A7F515&height=210&section=header&text=LUMOS%20LOGIC&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Digital%20Products.%20Enabling%20Smarter%20Businesses.&descSize=16&descAlignY=58" width="100%" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LumosLogic-Dhruv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LumosLogic-Dhruv&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumosLogic-Dhruv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A7F515&center=true&vCenter=true&width=700&lines=Building+Enterprise+SaaS+Solutions;Developing+AI-Powered+Applications;Transforming+Business+Workflows;Innovating+Across+HRTech+%26+RecruitmentTech" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LumosLogic-Dhruv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/Software_Engineering-1E164A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_&_Automation-A7F515?style=for-the-badge&logoColor=1E164A" />
+<img src="https://img.shields.io/badge/Enterprise_SaaS-1E164A?style=for-the-badge" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LumosLogic-Dhruv&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## 🏢 About Lumos Logic
+
+**Lumos Logic India LLP** focuses on building modern digital products, enterprise software, and AI-powered business solutions.
+
+We work across the software development lifecycle — from product architecture and UI/UX development to backend engineering, AI integrations, cloud infrastructure, and production deployment.
+
+Our goal is to transform complex business requirements into scalable, reliable, and user-friendly technology solutions.
+
+### 🎯 What We Build
+
+- 🏢 Enterprise Software & HRTech Solutions
+- 🤖 AI-Powered Applications & Automation
+- 💼 Recruitment & HR Management Platforms
+- 🐞 QA & Project Management Systems
+- 📄 Intelligent Document Generation
+- ☁️ Cloud Infrastructure & Application Deployment
+
+---
+
+## 🚀 Our Product Ecosystem
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 HRMS – Human Resource Management
+
+An integrated Human Resource Management System covering employee management, attendance, payroll, onboarding, offboarding, leave management, document management, and biometric integration.
+
+**Technologies:** React, Node.js, Express, PostgreSQL, React Native
+
+🌐 [Web Platform](https://hrms.lumoslogic.com/)
+
+📱 [Android Application](https://play.google.com/store/apps/details?id=com.lumoslogic.hrms)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 RecruitX – AI Recruitment Ecosystem
+
+An AI-powered recruitment ecosystem designed to automate candidate screening, interviewing, evaluation, and recruitment workflows.
+
+**Products:**
+
+- [RecruitX Meet](https://meet.recruitx-ai.com/) – AI-powered Google Meet interviews
+- [RecruitX CRM](https://crm.recruitx-ai.com/) – AI voice interviews
+- [RecruitFlow](https://flow.recruitx-ai.com/) – Recruitment pipeline management
+
+**Technologies:** Next.js, Python, Convex, AI APIs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐞 DevTracker – QA Management
+
+An AI-assisted project and bug tracking platform connecting QA engineers and developers through structured issue management, intelligent bug generation, and developer assistance.
+
+**Technologies:** React, Node.js, Express, Supabase, Cloudinary
+
+🌐 [Explore DevTracker](https://devtracker.lumoslogic.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 DocuFlow AI – Document Automation
+
+An intelligent document generation platform for professional business documents, invoices, tax documents, and company-specific templates.
+
+Features include brand customization, e-signatures, document locking, and AI-assisted editing.
+
+**Technologies:** React, Python, Convex, Cloudinary
+
+🌐 [Explore DocuFlow AI](https://aidocs.lumoslogic.com/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Technology Stack
+
+### Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,mysql" />
+</p>
+
+### Mobile & Application Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,firebase,git,github,postman,docker" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,docker,linux,nginx" />
+</p>
+
+### AI & Integrations
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-1E164A?style=for-the-badge&logo=openai&logoColor=A7F515" />
+<img src="https://img.shields.io/badge/Deepgram-1E164A?style=for-the-badge&logoColor=A7F515" />
+<img src="https://img.shields.io/badge/ElevenLabs-1E164A?style=for-the-badge&logoColor=A7F515" />
+<img src="https://img.shields.io/badge/Recall_AI-1E164A?style=for-the-badge&logoColor=A7F515" />
+<img src="https://img.shields.io/badge/Convex-1E164A?style=for-the-badge&logoColor=A7F515" />
+</p>
+
+---
+
+## ☁️ Development & Deployment
+
+Our development workflows cover:
+
+- Full-stack application development
+- REST API design and integration
+- Authentication and role-based access control
+- Database architecture and management
+- AI and third-party service integrations
+- VPS and cloud infrastructure management
+- Domain mapping, SSL and production releases
+- Application monitoring and continuous improvements
+
+**Infrastructure:** Hostinger VPS · Google Cloud Run · Firebase · Vercel · Render
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LumosLogic-Dhruv&show_icons=true&theme=dark&bg_color=1E164A&title_color=A7F515&icon_color=A7F515&text_color=FFFFFF&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumosLogic-Dhruv&layout=compact&theme=dark&bg_color=1E164A&title_color=A7F515&text_color=FFFFFF&hide_border=true" />
+
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LumosLogic-Dhruv&theme=dark&background=1E164A&ring=A7F515&fire=A7F515&currStreakLabel=A7F515&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution activity" />
+
+</div>
+
+---
+
+## 🤝 Connect With Lumos Logic
+
+<div align="center">
+
+<a href="https://github.com/LumosLogic-Dhruv">
+<img src="https://img.shields.io/badge/GitHub-1E164A?style=for-the-badge&logo=github&logoColor=A7F515" />
+</a>
+
+<a href="https://www.linkedin.com/company/lumos-logic/">
+<img src="https://img.shields.io/badge/LinkedIn-1E164A?style=for-the-badge&logo=linkedin&logoColor=A7F515" />
+</a>
+
+<br/><br/>
+
+**Building technology that makes businesses smarter.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E164A,50:35277A,100:A7F515&height=110&section=footer" width="100%" />
+
+</div>
