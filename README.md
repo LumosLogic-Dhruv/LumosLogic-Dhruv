@@ -155,17 +155,37 @@ Our development workflows cover:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Engineering Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LumosLogic-Dhruv&show_icons=true&theme=dark&bg_color=1E164A&title_color=A7F515&icon_color=A7F515&text_color=FFFFFF&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LumosLogic-Dhruv&theme=dark&bg_color=1E164A&title_color=A7F515&icon_color=A7F515&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumosLogic-Dhruv&layout=compact&theme=dark&bg_color=1E164A&title_color=A7F515&text_color=FFFFFF&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumosLogic-Dhruv&theme=dark&bg_color=1E164A&title_color=A7F515&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
-<br/><br/>
+<br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=LumosLogic-Dhruv&theme=dark&background=1E164A&ring=A7F515&fire=A7F515&currStreakLabel=A7F515&hide_border=true" />
+<img width="75%" src="https://nirzak-streak-stats.vercel.app/?user=LumosLogic-Dhruv&theme=dark&background=1E164A&ring=A7F515&fire=A7F515&currStreakLabel=A7F515&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LumosLogic-Dhruv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+
+</div>
+
+---
+
+## 📌 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=LumosLogic-Dhruv&limit=5&theme=dark&combine_all_yearly_contributions=true" width="85%" />
 
 </div>
 
@@ -175,7 +195,7 @@ Our development workflows cover:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution activity" />
+<img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
