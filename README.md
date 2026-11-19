@@ -155,20 +155,32 @@ Our development workflows cover:
 
 ---
 
+
 ## 📊 GitHub Engineering Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LumosLogic-Dhruv&theme=dark&bg_color=1E164A&title_color=A7F515&icon_color=A7F515&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LumosLogic-Dhruv&show_icons=true&theme=dark&bg_color=1E164A&title_color=A7F515&icon_color=A7F515&text_color=FFFFFF&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumosLogic-Dhruv&theme=dark&bg_color=1E164A&title_color=A7F515&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumosLogic-Dhruv&layout=compact&theme=dark&bg_color=1E164A&title_color=A7F515&text_color=FFFFFF&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://nirzak-streak-stats.vercel.app/?user=LumosLogic-Dhruv&theme=dark&background=1E164A&ring=A7F515&fire=A7F515&currStreakLabel=A7F515&hide_border=true" />
+<a href="https://github.com/LumosLogic-Dhruv">
+  <img src="https://img.shields.io/badge/View_GitHub_Activity-1E164A?style=for-the-badge&logo=github&logoColor=A7F515" />
+</a>
 
 </div>
 
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Activity" />
+
+</div>
 ---
 
 ## 🏆 GitHub Achievements
@@ -195,7 +207,7 @@ Our development workflows cover:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/LumosLogic-Dhruv/LumosLogic-Dhruv/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
